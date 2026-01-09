@@ -20,11 +20,17 @@ It offers a complete blogging workflow with authentication, CRUD functionality, 
 🗂 Organized Folder Structure: Clear separation of frontend, backend, and assets for maintainability.
 
 🧰 Tech Stack
+
 Layer	Technology
+
 Frontend	React, JavaScript, CSS (Bootstrap optional)
+
 Backend	PHP (RESTful API), MySQL
+
 Styling	Custom CSS, Google Fonts, modern gradients
+
 Assets	Logo and icons in src/assets/
+
 ⚙️ Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/mini-blog-platform.git
