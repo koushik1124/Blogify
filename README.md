@@ -50,6 +50,8 @@ In your React app, update the API URLs to match your backend location:
 http://localhost/mini-blog-platform/public/
 
 🗂 Folder Structure
+```
+text
 mini-blog-platform/
 ├── frontend/
 │   ├── src/
@@ -60,7 +62,7 @@ mini-blog-platform/
 ├── public/                 # PHP API files (login.php, register.php, posts.php, post.php, create_post.php, delete_post.php)
 ├── database.sql            # MySQL schema (optional)
 └── README.md
-
+```
 🧩 Customization
 
 Replace the logo in src/assets/mini-blog-logo.png with your own branding.
