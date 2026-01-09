@@ -51,7 +51,6 @@ http://localhost/mini-blog-platform/public/
 
 🗂 Folder Structure
 ```
-text
 mini-blog-platform/
 ├── frontend/
 │   ├── src/
